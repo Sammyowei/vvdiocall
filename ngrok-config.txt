@@ -1,0 +1,2 @@
+ngrok file:  2ohggj4ykbcqUXR6NMyJm2qIOqc_4JPmfA1EsZsgWaQXmFA6F
+aws instance: ubuntu@ec2-16-171-254-123.eu-north-1.compute.amazonaws.com
